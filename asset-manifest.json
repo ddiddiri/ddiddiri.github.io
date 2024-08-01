@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc57823b.css",
+    "main.js": "/static/js/main.190777f6.js",
+    "static/js/453.1242cc58.chunk.js": "/static/js/453.1242cc58.chunk.js",
+    "static/media/4-3.webp": "/static/media/4-3.1537a432cb1802d5d744.webp",
+    "static/media/Gallery7.jpg": "/static/media/Gallery7.b99f54066f6dd16642f4.jpg",
+    "static/media/Gallery5.jpg": "/static/media/Gallery5.e6a0c9c79ba7bc4196bb.jpg",
+    "static/media/Gallery9.jpg": "/static/media/Gallery9.3022584214f14c8a438d.jpg",
+    "static/media/Gallery11.png": "/static/media/Gallery11.d733507e23efb5f36447.png",
+    "static/media/Gallery6.jpg": "/static/media/Gallery6.02578ff4769a92c5cc4f.jpg",
+    "static/media/Gallery4.jpg": "/static/media/Gallery4.89a80924129426811442.jpg",
+    "static/media/Gallery8.jpg": "/static/media/Gallery8.f39da94f8c772038a0e0.jpg",
+    "static/media/Gallery1.jpg": "/static/media/Gallery1.f3ff28cfaed807f26278.jpg",
+    "static/media/5-1.webp": "/static/media/5-1.4287ba3af964c9a4fc97.webp",
+    "static/media/Gallery2.jpg": "/static/media/Gallery2.ae5b2434b139fa842ab5.jpg",
+    "static/media/2-1.webp": "/static/media/2-1.559b642966740dcb974b.webp",
+    "static/media/5-2.webp": "/static/media/5-2.f2c4e748ce38a0c8420d.webp",
+    "static/media/Gallery12.png": "/static/media/Gallery12.b0a088f3c36d3b1f81d0.png",
+    "static/media/Gallery10.jpg": "/static/media/Gallery10.137a0dc3063e2c6eb537.jpg",
+    "static/media/Gallery3.jpg": "/static/media/Gallery3.137a0dc3063e2c6eb537.jpg",
+    "static/media/4-4.webp": "/static/media/4-4.1050b7ff42196064bbaf.webp",
+    "static/media/4-2.webp": "/static/media/4-2.bb304f2fa694fc433e30.webp",
+    "static/media/1-2.webp": "/static/media/1-2.f2ed0e06c51d0c0521b2.webp",
+    "static/media/2-2.webp": "/static/media/2-2.42405c9c263ed48612e5.webp",
+    "static/media/4-1.webp": "/static/media/4-1.4aec89d94cb61fb7ed5b.webp",
+    "static/media/1-1.webp": "/static/media/1-1.277c7273a357ea55259f.webp",
+    "static/media/logo.svg": "/static/media/logo.3cff47c88d80f9af25a07aa34843816b.svg",
+    "index.html": "/index.html",
+    "main.bc57823b.css.map": "/static/css/main.bc57823b.css.map",
+    "main.190777f6.js.map": "/static/js/main.190777f6.js.map",
+    "453.1242cc58.chunk.js.map": "/static/js/453.1242cc58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc57823b.css",
+    "static/js/main.190777f6.js"
+  ]
+}
